@@ -1,7 +1,7 @@
 {
     "name":"Aplicación votacion Vite y PW",
     "short_name":"VitePWA",
-    "start_url":"/test-encuesta/",
+    "start_url":"/",
     "display":"fullscreen",
     "background_color":"#ffffff",
     "lang":"es-MX",
